@@ -40,4 +40,4 @@ YES
 NO
 
 Direct link to the problem:https://www.codechef.com/problems/NAME1
-Direct link to the submission:https://www.codechef.com/submit/NAME1
+Direct link to the submission:https://www.codechef.com/viewsolution/64853600
